@@ -1,6 +1,6 @@
 {
   "name": "v8hd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Control interface for Roland V-8HD video switchers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
